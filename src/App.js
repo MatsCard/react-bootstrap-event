@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Speakers from './components/Speakers';
 import PlaceTime from './components/PlaceTime';
-
+import RegisterOrator from './components/RegisterOrator';
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
       <Main></Main>
       <Speakers></Speakers>
       <PlaceTime></PlaceTime>
+      <RegisterOrator></RegisterOrator>
     </BrowserRouter>
   );
 }
