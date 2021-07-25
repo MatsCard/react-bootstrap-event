@@ -9,6 +9,7 @@ import RegisterOrator from './components/RegisterOrator';
 import Footer from './components/Footer';
 import Modal from './components/Modal';
 
+
 function App() {
   return (
     <BrowserRouter>

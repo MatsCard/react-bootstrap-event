@@ -2,6 +2,7 @@ import React from 'react';
 import platziLogo from '../assets/images/platzi-logo.png';
 import './styles/Header.css';
 
+
 function Header(props) {
 
   return (
@@ -39,6 +40,7 @@ function Header(props) {
         </div>
       </nav>
     </header>
+    
   );
 }
 
