@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-bootstrap-event/static/css/main.7661491f.chunk.css",
-    "main.js": "/react-bootstrap-event/static/js/main.136ad769.chunk.js",
-    "main.js.map": "/react-bootstrap-event/static/js/main.136ad769.chunk.js.map",
+    "main.js": "/react-bootstrap-event/static/js/main.645bcd10.chunk.js",
+    "main.js.map": "/react-bootstrap-event/static/js/main.645bcd10.chunk.js.map",
     "runtime-main.js": "/react-bootstrap-event/static/js/runtime-main.a5c12040.js",
     "runtime-main.js.map": "/react-bootstrap-event/static/js/runtime-main.a5c12040.js.map",
     "static/js/2.63de69eb.chunk.js": "/react-bootstrap-event/static/js/2.63de69eb.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.a5c12040.js",
     "static/js/2.63de69eb.chunk.js",
     "static/css/main.7661491f.chunk.css",
-    "static/js/main.136ad769.chunk.js"
+    "static/js/main.645bcd10.chunk.js"
   ]
 }
