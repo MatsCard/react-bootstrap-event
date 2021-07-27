@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/react-bootstrap-event" component={Home} />
       </Switch> 
     </BrowserRouter>
   );
