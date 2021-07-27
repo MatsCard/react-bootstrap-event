@@ -1,6 +1,6 @@
 Online Version:
 
-https://matscard.github.io/react-bootstrap-event/index
+https://matscard.github.io/react-bootstrap-event
 
 # Getting Started with Create React App
 
